@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/f963819b-e080-4f33-8610-aed6db84ddbd)
+
 
 <!--
 **MorganDPickens/MorganDPickens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
