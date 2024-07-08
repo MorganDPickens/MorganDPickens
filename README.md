@@ -1,6 +1,5 @@
 
-![25f64270-ce67-4437-8acb-8e9be686fc0d](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/66df84de-75bb-43e7-9571-7226badb1992)
-
+![25f64270-ce67-4437-8acb-8e9be686fc0d](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/ee8a2c49-9fa3-475b-978c-8283136e21b9)
 
 
 <!--
