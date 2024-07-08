@@ -1,8 +1,6 @@
 
-![25f64270-ce67-4437-8acb-8e9be686fc0d(2)](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/efe0a848-dee9-4e77-a7f2-4379562c8752)
+<!--![25f64270-ce67-4437-8acb-8e9be686fc0d](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/47a0b568-cbfc-410a-96aa-ff3e3e014914)
 
-
-<!--
 **MorganDPickens/MorganDPickens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
