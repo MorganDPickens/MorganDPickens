@@ -2,7 +2,7 @@
 ![155fefa8-95bf-49bd-97f4-d54a703da357](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/5f09ba68-f828-433b-9393-47f67cef9fa2)
 
 <h1 align="center">Hi 👋, I'm Morgan Daniel Pickens</h1>
-<h3 align="center">Dedicated BLockchain Developer from Detroit, Mi</h3>
+<h3 align="center">Dedicated Blockchain Developer from Detroit, Mi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morgandpickens&label=Profile%20views&color=0e75b6&style=flat" alt="morgandpickens" /> </p>
 
