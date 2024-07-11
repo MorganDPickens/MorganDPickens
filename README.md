@@ -1,5 +1,5 @@
 
-![155fefa8-95bf-49bd-97f4-d54a703da357](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/5f09ba68-f828-433b-9393-47f67cef9fa2)
+![github-header-image](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/c0e52231-76d2-4a8e-94b6-dac84956a73f)
 
 <h1 align="center">Hi 👋, I'm Morgan Daniel Pickens</h1>
 <h3 align="center">Dedicated Blockchain Developer from Detroit, Mi</h3>
