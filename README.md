@@ -5,8 +5,7 @@
 <h3 align="center">Dedicated Blockchain Developer from Detroit, Mi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morgandpickens&label=Profile%20views&color=0e75b6&style=flat" alt="morgandpickens" /> </p>
-
-https://github-profile-trophy.vercel.app/?username=MorganDPickens
+[![trophy](https://github-profile-trophy.vercel.app/?username=MorganDPickens)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morgandpickens&show_icons=true&locale=en&layout=compact" alt="morgandpickens" /></p>
 
