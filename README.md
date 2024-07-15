@@ -1,5 +1,5 @@
 
-![github-header-image (1)](https://github.com/MorganDPickens/MorganDPickens/assets/144762064/10aca8d1-53ce-4dfb-9124-468d42d2d37f)
+![github-header-image (2)](https://github.com/user-attachments/assets/a5d4475a-9d5a-42de-aed7-0d024ad39448)
 <h1 align="center">Hi 👋, I'm Morgan Daniel Pickens</h1>
 <h3 align="center">Dedicated BLockchain Developer from Detroit, Mi</h3>
 
