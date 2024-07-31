@@ -1,5 +1,6 @@
 
-![github-header-image (2)](https://github.com/user-attachments/assets/a5d4475a-9d5a-42de-aed7-0d024ad39448)
+![github-header-image(5)](https://github.com/user-attachments/assets/f2fbe7da-391c-42c3-b3c2-5e75f894becc)
+
 <h1 align="center">Hi 👋, I'm Morgan Daniel Pickens</h1>
 <h3 align="center">Dedicated BLockchain Developer from Detroit, Mi. Founder of BlackSmith Ether</h3>
 
