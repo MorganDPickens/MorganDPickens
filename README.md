@@ -2,7 +2,7 @@
 ![github-header-image(5)](https://github.com/user-attachments/assets/f2fbe7da-391c-42c3-b3c2-5e75f894becc)
 
 <h1 align="center">Hi 👋, I'm Morgan Daniel Pickens</h1>
-<h3 align="center">Dedicated BLockchain Developer from Detroit, Mi. Founder of BlackSmith Ether</h3>
+<h3 align="center">Dedicated Software Engineer from Detroit, Mi. Founder of BlackSmith Ether</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morgandpickens&label=Profile%20views&color=0e75b6&style=flat" alt="morgandpickens" /> </p>
 
